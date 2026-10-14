@@ -1,0 +1,29 @@
+body {
+  color: #82a5ca;
+  text-align: center;
+  font-family: "Science Gothic", sans-serif;
+  margin: 0;
+}
+.btn {
+  padding: 6px 12px;
+  background: white;
+  border: none;
+  font-family: "Science Gothic", sans-serif;
+  color: #82a5ca;
+  font-weight: 850;
+}
+.underline {
+  border-bottom: 2px solid white;
+}
+
+#main-logo {
+  width: 200px;
+}
+#hero {
+  background-image: url("images/200.webp");
+  background-size: cover;
+  padding: 0px 0px 40px 0px;
+}
+#title {
+  text-shadow: 2px 0px black;
+}
